@@ -33,10 +33,19 @@ in machine learning, you can easily implement the functionality you need in just
 
 3. Getting set up
 
-> - Fork the project via `github`
-> - Clone the project `git clone https://github.com/crendu/OCR_mlkit_BarCode-Text.git`
-> - Import the project into Android Studio
-> - Build the project (you may need to update some dependencies)
+> 1) Fork the project via `github`<br/>
+> 2) Clone the project `git clone https://github.com/crendu/OCR_mlkit_BarCode-Text.git`<br/>
+> 3) Import the project into Android Studio<br/>
+> 4) Add the following dependencies:  (you may need to update the version of some of them)<br/>
+> &emsp; In the app file build.gradle:<br/>
+> &emsp;&emsp; _dependencies {<br/>
+> &emsp;&emsp;&emsp;&emsp; // Add this lines<br/>
+> &emsp;&emsp;&emsp;&emsp; implementation 'com.android.support:cardview-v7:28.0.0'<br/>
+> &emsp;&emsp;&emsp;&emsp; implementation 'com.theartofdev.edmodo:android-image-cropper:2.7.+' // Image crop library<br/>
+> &emsp;&emsp;&emsp;&emsp; implementation 'com.google.android.gms:play-services-vision:16.2.0' // Image to text google library<br/>
+> &emsp;&emsp; }<br/>
+> &emsp;&emsp; ...<br/>
+> &emsp;&emsp; apply plugin: 'com.google.gms.google-services'  // Add to the bottom of the file_<br/>
 
 4. Run the starter app
 
