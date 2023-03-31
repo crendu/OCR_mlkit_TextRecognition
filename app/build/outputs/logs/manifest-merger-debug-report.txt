@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/367cad2416cd7ba618f5677b2b16730f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/a2dd1b71aeecf92a42a8d04250a02b8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9f685d8c5e566146234c7ae27fdf4c5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/treewalker/.gradle/caches/transforms-2/files-2.1/746023ad5cc129d47f71cd388e44961d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/0303a4136b5dcc2042db6d2637d43d78/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/06482c4f2ce5bada6d474361ad4b399d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/108a7f276a99d4ea0fe1b50b5f57be2b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/03db93d7de0787fa6545f4c8e40599f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/924321a20bc57a2ddbc9bfca0e305447/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/1e9a6297a1f91e98fd19a1bd4ef0ff19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cafbf26bb416a0ac07817906a6dc8770/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/593811a75fb53a4929cc28048e176d22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/c90f6909e35e14902c677baa5f899766/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2be698a9b8e315802fe63c84904464d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/aa3d09e269f7136b44616b9dfb17d431/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2962769d14cf47dc67c33a9b29a25825/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cd30525014073bed1a1fef0ae61e2e08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b28786338b12fa9dab5f80caef72b62e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/3e431bf88dd0e252c4c24f9efc289fe7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/718e42b9f62a1a1210b92480c6a49e11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/14eb235f89c048f6414ce8251c482ada/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/8774caa9d4507617c022d93287594f5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b08ff61b431ac521eaf2967ffb080158/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b4875688cef2bd612e7a1be155fbe226/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbde8fe94176b9cb5285b32b85b37104/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/24d4246e7d71456309ef67326d7e62c4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/6eb4655c2e5896ad98ae61081b51fe86/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/5e7f4141e088952cb51410511f0ee692/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2bd03987108d31f330609d52d573d195/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/93d1fca38175768afcbf430f9163b3fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/80a7a068d46f2d8df837e63e8976221c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/7adf632f213759a7868170d3649ef54e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9f0c6a3666c17e6efb2613b36fa916c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9d63d68e77636bc766534028718af941/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cef8cebf590a71cb4e496cf57ce8613b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9cc173d41b156f8e3bcf6cabac326158/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/3916ec8c7a4f239c6d3254656fb750c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/6d10c26ea0be6f14ab6fc1e7be9870ee/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.CAMERA
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/treewalker/.gradle/caches/transforms-2/files-2.1/746023ad5cc129d47f71cd388e44961d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/treewalker/.gradle/caches/transforms-2/files-2.1/746023ad5cc129d47f71cd388e44961d/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/0303a4136b5dcc2042db6d2637d43d78/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/0303a4136b5dcc2042db6d2637d43d78/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/06482c4f2ce5bada6d474361ad4b399d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/06482c4f2ce5bada6d474361ad4b399d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/108a7f276a99d4ea0fe1b50b5f57be2b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/108a7f276a99d4ea0fe1b50b5f57be2b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/924321a20bc57a2ddbc9bfca0e305447/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/924321a20bc57a2ddbc9bfca0e305447/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/1e9a6297a1f91e98fd19a1bd4ef0ff19/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/1e9a6297a1f91e98fd19a1bd4ef0ff19/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cafbf26bb416a0ac07817906a6dc8770/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cafbf26bb416a0ac07817906a6dc8770/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbde8fe94176b9cb5285b32b85b37104/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbde8fe94176b9cb5285b32b85b37104/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/24d4246e7d71456309ef67326d7e62c4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/24d4246e7d71456309ef67326d7e62c4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/6eb4655c2e5896ad98ae61081b51fe86/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/6eb4655c2e5896ad98ae61081b51fe86/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/24d4246e7d71456309ef67326d7e62c4/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:16:9-40
+activity#crendu.ocr_mlkit_barcodetext.MainActivity
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:17:9-22:20
+	android:name
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:23:9-25:47
+	android:theme
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml:24:13-76
+uses-sdk
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/367cad2416cd7ba618f5677b2b16730f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/367cad2416cd7ba618f5677b2b16730f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/a2dd1b71aeecf92a42a8d04250a02b8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/a2dd1b71aeecf92a42a8d04250a02b8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9f685d8c5e566146234c7ae27fdf4c5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9f685d8c5e566146234c7ae27fdf4c5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/treewalker/.gradle/caches/transforms-2/files-2.1/746023ad5cc129d47f71cd388e44961d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/treewalker/.gradle/caches/transforms-2/files-2.1/746023ad5cc129d47f71cd388e44961d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/0303a4136b5dcc2042db6d2637d43d78/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/0303a4136b5dcc2042db6d2637d43d78/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/06482c4f2ce5bada6d474361ad4b399d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/06482c4f2ce5bada6d474361ad4b399d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/108a7f276a99d4ea0fe1b50b5f57be2b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/108a7f276a99d4ea0fe1b50b5f57be2b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/03db93d7de0787fa6545f4c8e40599f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/03db93d7de0787fa6545f4c8e40599f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/924321a20bc57a2ddbc9bfca0e305447/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/924321a20bc57a2ddbc9bfca0e305447/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/1e9a6297a1f91e98fd19a1bd4ef0ff19/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/1e9a6297a1f91e98fd19a1bd4ef0ff19/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cafbf26bb416a0ac07817906a6dc8770/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cafbf26bb416a0ac07817906a6dc8770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/593811a75fb53a4929cc28048e176d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/593811a75fb53a4929cc28048e176d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/c90f6909e35e14902c677baa5f899766/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/c90f6909e35e14902c677baa5f899766/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2be698a9b8e315802fe63c84904464d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2be698a9b8e315802fe63c84904464d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/aa3d09e269f7136b44616b9dfb17d431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/aa3d09e269f7136b44616b9dfb17d431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2962769d14cf47dc67c33a9b29a25825/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2962769d14cf47dc67c33a9b29a25825/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cd30525014073bed1a1fef0ae61e2e08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cd30525014073bed1a1fef0ae61e2e08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b28786338b12fa9dab5f80caef72b62e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b28786338b12fa9dab5f80caef72b62e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/3e431bf88dd0e252c4c24f9efc289fe7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/3e431bf88dd0e252c4c24f9efc289fe7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/718e42b9f62a1a1210b92480c6a49e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/718e42b9f62a1a1210b92480c6a49e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/14eb235f89c048f6414ce8251c482ada/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/14eb235f89c048f6414ce8251c482ada/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/8774caa9d4507617c022d93287594f5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/8774caa9d4507617c022d93287594f5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b08ff61b431ac521eaf2967ffb080158/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b08ff61b431ac521eaf2967ffb080158/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b4875688cef2bd612e7a1be155fbe226/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/b4875688cef2bd612e7a1be155fbe226/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbde8fe94176b9cb5285b32b85b37104/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbde8fe94176b9cb5285b32b85b37104/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/24d4246e7d71456309ef67326d7e62c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/24d4246e7d71456309ef67326d7e62c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/6eb4655c2e5896ad98ae61081b51fe86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/6eb4655c2e5896ad98ae61081b51fe86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/5e7f4141e088952cb51410511f0ee692/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/5e7f4141e088952cb51410511f0ee692/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2bd03987108d31f330609d52d573d195/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/2bd03987108d31f330609d52d573d195/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/93d1fca38175768afcbf430f9163b3fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/93d1fca38175768afcbf430f9163b3fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/80a7a068d46f2d8df837e63e8976221c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/80a7a068d46f2d8df837e63e8976221c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/7adf632f213759a7868170d3649ef54e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/7adf632f213759a7868170d3649ef54e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9f0c6a3666c17e6efb2613b36fa916c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9f0c6a3666c17e6efb2613b36fa916c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9d63d68e77636bc766534028718af941/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9d63d68e77636bc766534028718af941/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cef8cebf590a71cb4e496cf57ce8613b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cef8cebf590a71cb4e496cf57ce8613b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9cc173d41b156f8e3bcf6cabac326158/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/9cc173d41b156f8e3bcf6cabac326158/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/3916ec8c7a4f239c6d3254656fb750c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/3916ec8c7a4f239c6d3254656fb750c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/6d10c26ea0be6f14ab6fc1e7be9870ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/6d10c26ea0be6f14ab6fc1e7be9870ee/AndroidManifest.xml:20:5-44
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/treewalker/Project/OCR_mlkit_TextRecognition/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/f031d59f1462180b608b1474d23d4618/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cafbf26bb416a0ac07817906a6dc8770/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cafbf26bb416a0ac07817906a6dc8770/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/treewalker/.gradle/caches/transforms-2/files-2.1/cafbf26bb416a0ac07817906a6dc8770/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbde8fe94176b9cb5285b32b85b37104/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbde8fe94176b9cb5285b32b85b37104/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/treewalker/.gradle/caches/transforms-2/files-2.1/dbf20d0637202b010952a5ec32f01614/AndroidManifest.xml:27:13-51
