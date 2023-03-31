@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/treewalker/Project/OCR_mlkit_TextRecognition/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/treewalker/.gradle/caches/transforms-2/files-2.1/a2dd1b71aeecf92a42a8d04250a02b8b/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
